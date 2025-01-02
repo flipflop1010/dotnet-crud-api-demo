@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/FLIP_CRUD.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FLIP_CRUD.props" />
+</Project>
